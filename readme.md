@@ -1,4 +1,4 @@
-#README
+# README
 
 The self-organization agreement document is [here](self-organization-agreement.md)
 
@@ -10,7 +10,7 @@ The self-organization agreement document is [here](self-organization-agreement.m
 * **Evolve** - Define organizational rules and roles iteratively based on the challenges that members experience. Make progress even over perfection.
 * **Evidence** - Base decisions and actions on evidence. 
 
-###Why is this agreement needed?
+### Why is this agreement needed?
 
 Your group of 2-20 people needs a clear way to fulfill its purpose, make decisions, get things done, and respond to change. 
 * To fit your values your agreement must be egalitarian. 
@@ -20,14 +20,14 @@ Your group of 2-20 people needs a clear way to fulfill its purpose, make decisio
 
 If this is what you are looking for, [this agreement](self-organization-agreement.md) is for you.
 
-###How do you adopt this agreement?
+### How do you adopt this agreement?
 
 1. Each member of the organization defines roles based on the activities they are currently doing. The mission holders of the organization define the purpose & values through a process they choose.
 2. Grant the roles defined by the organization's members and the default roles: Role Assigner, Facilitator, and Treasurer. Remember, roles can be held by multiple people and people can hold multiple roles.
 3. Have those with sufficient authority ratify the agreement for self-organization.
 4. Have regular meetings to make proposals. Document the proposals in the adopted proposal section below.
 
-###Why are there no circles or groups defined in the agreement?
+### Why are there no circles or groups defined in the agreement?
 
 The focus of this agreement is for small groups of 2-20. There are several design patterns for scaling. Rather than biasing in one direction or another at the outset, the agreement gives space for the organization to evolve.
 
@@ -35,32 +35,32 @@ Two potential scaling patterns are: nested holonic circle structures as employed
 
 If you would like to contribute scaling "proposal pattern", your contributions would be welcome. For example you could contribute a sociocracy style double linked circle "proposal pattern".
 
-###Legal
+### Legal
 
 The materials in this agreement are for informational purposes only and do not constitute legal advice.
 
 For maximum usability, this agreement is licensed under the Creative Commons CC0 public domain dedication:
 http://creativecommons.org/publicdomain/zero/1.0
 
-###Attribution
+### Attribution
 
 You are not required to include attribution if you redistribute this agreement. However, your ethical credit for our work is appreciated when appropriate.
 
-####Inspiration
+#### Inspiration
 
 We were greatly inspired by Holacracy, Sociocracy, Morning Star self-management, and the tradition of self-organization stretching back to at least Norbert Wiener's work on Cybernetics.
 
-####Core Contributors:
+#### Core Contributors:
 
 * Noah Thorp
 * Alexis Gonzales-Black
 
-####Contributors:
+#### Contributors:
 
 * David Hodgson
 * Michael Auraz
 
-####Sponsors:
+#### Sponsors:
 
 * Citizen Code
 
